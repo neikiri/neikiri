@@ -115,7 +115,7 @@ I like clean code, efficient solutions, and pushing things a bit further than ne
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jindrichstoklasa&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neikiri&theme=tokyonight">
 </p>
 
 ---
