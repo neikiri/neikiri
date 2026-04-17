@@ -107,7 +107,7 @@ I like clean code, efficient solutions, and pushing things a bit further than ne
 🔹 Automation tools & bots (Python + OpenCV)<br>
 🔹 Web projects & custom admin systems<br>
 🔹 AI integrations & experiments<br>
-🔹 Server management & optimization (Linux / Apache / Mail servers)<br>
+🔹 Server management & optimization (Linux / Apache / MySQL / Mail servers)<br>
 </p>
 
 ---
