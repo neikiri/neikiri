@@ -1,118 +1,172 @@
 <p align="center">
-  <img src="logo.png" width="240"><br><br>
+  <img src="logo.png" width="230" alt="neikiri logo">
+</p>
+
+<h1 align="center">neikiri</h1>
+
+<h3 align="center">Practical tools, clean interfaces, and automation that gets out of the way.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jindrichstoklasa/"><img alt="LinkedIn - in/jindrichstoklasa" src="https://img.shields.io/badge/LinkedIn-in%2Fjindrichstoklasa-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
+  <a href="https://www.reddit.com/user/neikiri/"><img alt="Reddit - u/neikiri" src="https://img.shields.io/badge/Reddit-u%2Fneikiri-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
+  <img alt="Discord - neikiri69" src="https://img.shields.io/badge/Discord-neikiri69-000000?style=for-the-badge&labelColor=000000&color=00234D">
+  <a href="https://x.com/jindrastoklasa"><img alt="X - @jindrastoklasa" src="https://img.shields.io/badge/X-%40jindrastoklasa-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jindrichstoklasa/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fjindrichstoklasa-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
-  <a href="https://www.reddit.com/user/neikiri/"><img src="https://img.shields.io/badge/Reddit-u%2Fneikiri-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
-  <img src="https://img.shields.io/badge/Discord-neikiri69-000000?style=for-the-badge&labelColor=000000&color=00234D">
-  <a href="https://x.com/jindrastoklasa"><img src="https://img.shields.io/badge/X-%40jindrastoklasa-000000?style=for-the-badge&labelColor=000000&color=00234D"></a>
+  I build zero-dependency frontend components, browser-based developer tools, Linux automation,<br>
+  backend systems, and native desktop utilities.
 </p>
 
 <p align="center">
-💻 IT enthusiast focused on <b>web development, automation & AI</b><br>
-⚡ I build practical tools, scripts and modern web projects<br>
-📍 Based in Czech Republic
+  <sub>Based in the Czech Republic &middot; focused on software that is useful, fast, and pleasant to work with</sub>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👋 About Me</h2>
 
-<p>
-Hi, I'm <b>neikiri</b> - a tech enthusiast from the Czech Republic focused on <b>web development, automation, and AI</b>.<br><br>
+<p align="center">
+I like building small, focused software that solves annoying real-world problems.
+</p>
 
-I enjoy building things that actually work in practice - from custom web solutions and backend systems to bots and smart tools powered by computer vision and automation.<br><br>
-
-🧠 Constantly learning and experimenting with new technologies<br>
-⚙️ Strong background in Linux, servers, and full-stack development<br>
-🤖 Interested in AI, automation, and optimization<br>
-🎨 Also experienced in design and UI/UX<br><br>
-
-I like clean code, efficient solutions, and pushing things a bit further than necessary 😄
-
+<p align="center">
+My work ranges from embeddable Web Components and browser-based developer tools to Linux automation, backend systems, and native desktop utilities. I usually prefer simple architecture, zero or minimal dependencies, clean UI, and tools that are easy to integrate, maintain, and actually use.
 </p>
 
 ---
 
-<h2 align="center">⚙️ Technology Stack</h2>
+<h2 align="center">🧩 What I Build</h2>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="90">
-      <img src="icons/html.png" height="50"><br><span style="font-size: 12px;"><b>HTML</b></span>
+    <td width="50%" valign="top">
+      <h3>Embeddable Web Components</h3>
+      <p>Standalone, CDN-friendly frontend libraries including WYSIWYG editors, syntax-highlighted code editors, image galleries, cookie consent banners, live Markdown editors, and precision clock widgets.</p>
     </td>
-    <td align="center" width="90">
-      <img src="icons/css.png" height="50"><br><span style="font-size: 12px;"><b>CSS</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/php.png" height="50"><br><span style="font-size: 12px;"><b>PHP</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/javascript.png" height="50"><br><span style="font-size: 12px;"><b>JavaScript</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/csharp.png" height="50"><br><span style="font-size: 12px;"><b>C#</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/python.png" height="50"><br><span style="font-size: 12px;"><b>Python</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/mysql.png" height="50"><br><span style="font-size: 12px;"><b>MySQL</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/bash.png" height="50"><br><span style="font-size: 12px;"><b>Bash</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/batch.png" height="50"><br><span style="font-size: 12px;"><b>Batch</b></span>
+    <td width="50%" valign="top">
+      <h3>CMS & Developer Tools</h3>
+      <p>Lightweight content management systems, admin panels, analytics dashboards, localization tools, code formatters, Bash prompt builders, and web project scaffolding utilities.</p>
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="90">
-      <img src="icons/json.png" height="50"><br><span style="font-size: 12px;"><b>JSON</b></span>
+    <td width="50%" valign="top">
+      <h3>Linux CLI & Server Tools</h3>
+      <p>Command-line utilities for system management, firewall administration, diagnostics, VPN deployment, client profile generation, and practical Debian/Ubuntu automation.</p>
     </td>
-    <td align="center" width="90">
-      <img src="icons/yaml.png" height="50"><br><span style="font-size: 12px;"><b>YAML</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/markdown.png" height="50"><br><span style="font-size: 12px;"><b>Markdown</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/arduino.png" height="50"><br><span style="font-size: 12px;"><b>Arduino</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/pawn.png" height="50"><br><span style="font-size: 12px;"><b>Pawn</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/github.png" height="50"><br><span style="font-size: 12px;"><b>GitHub</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/vba.png" height="50"><br><span style="font-size: 12px;"><b>VBA</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/excel.png" height="50"><br><span style="font-size: 12px;"><b>Excel</b></span>
-    </td>
-    <td align="center" width="90">
-      <img src="icons/photoshop.png" height="50"><br><span style="font-size: 12px;"><b>Photoshop</b></span>
+    <td width="50%" valign="top">
+      <h3>Desktop & Server Extensions</h3>
+      <p>Native desktop utilities, Windows shell integrations, context-menu file conversion tools, Python applications, and Bukkit/Spigot plugins with permissions and loop protection.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="center">🧠 Experience</h2>
+
+<table>
+  <tr>
+    <td valign="top"><b>Frontend & UI Engineering</b></td>
+    <td>Production-grade web components built from scratch with strong attention to polish, accessibility, mobile behavior, dark/light theming, and predictable integration.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend & Full-Stack Development</b></td>
+    <td>Server-side systems with CMS workflows, role-based access, REST APIs, database architecture, authentication, and CSRF/XSS protection.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Linux Systems & Automation</b></td>
+    <td>Hands-on scripting and administration across Debian/Ubuntu environments, including firewall rules, VPN setup, web scaffolding, diagnostics, and server networking.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Desktop Application Development</b></td>
+    <td>Native desktop tools with Rust + Tauri, Windows shell integration, and Python + PyQt5 utilities for conversion workflows and productivity tasks.</td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🎯 Focus Areas</h2>
 
 <p align="center">
-🔹 Automation tools & bots (Python + OpenCV)<br>
-🔹 Web projects & custom admin systems<br>
-🔹 AI integrations & experiments<br>
-🔹 Server management & optimization (Linux / Apache / MySQL / Mail servers)<br>
+  <code>Zero-dependency frontend components</code>
+  <code>Developer tooling</code>
+  <code>Linux server automation</code>
+  <code>Desktop-native utilities</code>
+  <code>Clean UI/UX</code>
+  <code>Responsive dark/light themes</code>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="icons/html.png" height="46" alt="HTML icon"><br><b>HTML</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/css.png" height="46" alt="CSS icon"><br><b>CSS</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/php.png" height="46" alt="PHP icon"><br><b>PHP</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/javascript.png" height="46" alt="JavaScript icon"><br><b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/csharp.png" height="46" alt="C# icon"><br><b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/python.png" height="46" alt="Python icon"><br><b>Python</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="icons/mysql.png" height="46" alt="MySQL icon"><br><b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/bash.png" height="46" alt="Bash icon"><br><b>Bash</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/batch.png" height="46" alt="Batch icon"><br><b>Batch</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/json.png" height="46" alt="JSON icon"><br><b>JSON</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/yaml.png" height="46" alt="YAML icon"><br><b>YAML</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/markdown.png" height="46" alt="Markdown icon"><br><b>Markdown</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="icons/arduino.png" height="46" alt="Arduino icon"><br><b>Arduino</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/pawn.png" height="46" alt="Pawn icon"><br><b>Pawn</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/github.png" height="46" alt="GitHub icon"><br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/vba.png" height="46" alt="VBA icon"><br><b>VBA</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/excel.png" height="46" alt="Excel icon"><br><b>Excel</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/photoshop.png" height="46" alt="Photoshop icon"><br><b>Photoshop</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 Github Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neikiri&theme=tokyonight">
@@ -120,16 +174,16 @@ I like clean code, efficient solutions, and pushing things a bit further than ne
 
 ---
 
-<h2 align="center">💡 Fun Facts</h2>
+<h2 align="center">🐶 Beyond Code</h2>
 
 <p align="center">
-🐕 I have a dachshund named Čenda<br>
-⚡ I enjoy optimizing everything (sometimes too much)<br>
-🎯 I prefer practical solutions over theory<br>
+  I have a dachshund named Čenda.<br>
+  I enjoy optimizing everything, sometimes a little too much.<br>
+  I prefer practical solutions over theory.
 </p>
 
 ---
 
-<p align="center">
-  <sub>Built with ❤️ by neikiri</sub>
-</p>
+<h3 align="center">
+  <i>I make small software things that usually start with "this should be easier"</i>
+</h3>
