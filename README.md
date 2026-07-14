@@ -144,6 +144,15 @@ My work ranges from embeddable Web Components and browser-based developer tools 
   </tr>
   <tr>
     <td align="center" width="110">
+      <img src="icons/pawn.webp" height="46" alt="Pawn icon"><br><b>Pawn</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/vba.webp" height="46" alt="VBA icon"><br><b>VBA</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/arduino.webp" height="46" alt="Arduino icon"><br><b>Arduino</b>
+    </td>
+    <td align="center" width="110">
       <img src="icons/json.webp" height="46" alt="JSON icon"><br><b>JSON</b>
     </td>
     <td align="center" width="110">
@@ -151,15 +160,6 @@ My work ranges from embeddable Web Components and browser-based developer tools 
     </td>
     <td align="center" width="110">
       <img src="icons/markdown.webp" height="46" alt="Markdown icon"><br><b>Markdown</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/arduino.webp" height="46" alt="Arduino icon"><br><b>Arduino</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/pawn.webp" height="46" alt="Pawn icon"><br><b>Pawn</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/vba.webp" height="46" alt="VBA icon"><br><b>VBA</b>
     </td>
   </tr>
 </table>
