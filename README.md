@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="230" alt="neikiri logo">
+  <img src="logo.webp" width="230" alt="neikiri logo">
 </p>
 
 <h1 align="center">neikiri</h1>
@@ -104,62 +104,62 @@ My work ranges from embeddable Web Components and browser-based developer tools 
 <table align="center">
   <tr>
     <td align="center" width="110">
-      <img src="icons/html.png" height="46" alt="HTML icon"><br><b>HTML</b>
+      <img src="icons/html.webp" height="46" alt="HTML icon"><br><b>HTML</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/css.png" height="46" alt="CSS icon"><br><b>CSS</b>
+      <img src="icons/css.webp" height="46" alt="CSS icon"><br><b>CSS</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/php.png" height="46" alt="PHP icon"><br><b>PHP</b>
+      <img src="icons/php.webp" height="46" alt="PHP icon"><br><b>PHP</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/javascript.png" height="46" alt="JavaScript icon"><br><b>JavaScript</b>
+      <img src="icons/javascript.webp" height="46" alt="JavaScript icon"><br><b>JavaScript</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/csharp.png" height="46" alt="C# icon"><br><b>C#</b>
+      <img src="icons/csharp.webp" height="46" alt="C# icon"><br><b>C#</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/python.png" height="46" alt="Python icon"><br><b>Python</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="icons/mysql.png" height="46" alt="MySQL icon"><br><b>MySQL</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/bash.png" height="46" alt="Bash icon"><br><b>Bash</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/batch.png" height="46" alt="Batch icon"><br><b>Batch</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/json.png" height="46" alt="JSON icon"><br><b>JSON</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/yaml.png" height="46" alt="YAML icon"><br><b>YAML</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/markdown.png" height="46" alt="Markdown icon"><br><b>Markdown</b>
+      <img src="icons/python.webp" height="46" alt="Python icon"><br><b>Python</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="110">
-      <img src="icons/arduino.png" height="46" alt="Arduino icon"><br><b>Arduino</b>
+      <img src="icons/mysql.webp" height="46" alt="MySQL icon"><br><b>MySQL</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/pawn.png" height="46" alt="Pawn icon"><br><b>Pawn</b>
+      <img src="icons/bash.webp" height="46" alt="Bash icon"><br><b>Bash</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/github.png" height="46" alt="GitHub icon"><br><b>GitHub</b>
+      <img src="icons/batch.webp" height="46" alt="Batch icon"><br><b>Batch</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/vba.png" height="46" alt="VBA icon"><br><b>VBA</b>
+      <img src="icons/json.webp" height="46" alt="JSON icon"><br><b>JSON</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/excel.png" height="46" alt="Excel icon"><br><b>Excel</b>
+      <img src="icons/yaml.webp" height="46" alt="YAML icon"><br><b>YAML</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/photoshop.png" height="46" alt="Photoshop icon"><br><b>Photoshop</b>
+      <img src="icons/markdown.webp" height="46" alt="Markdown icon"><br><b>Markdown</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="icons/arduino.webp" height="46" alt="Arduino icon"><br><b>Arduino</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/pawn.webp" height="46" alt="Pawn icon"><br><b>Pawn</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/github.webp" height="46" alt="GitHub icon"><br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/vba.webp" height="46" alt="VBA icon"><br><b>VBA</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/excel.webp" height="46" alt="Excel icon"><br><b>Excel</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/photoshop.webp" height="46" alt="Photoshop icon"><br><b>Photoshop</b>
     </td>
   </tr>
 </table>
