@@ -185,5 +185,5 @@ My work ranges from embeddable Web Components and browser-based developer tools 
 ---
 
 <h3 align="center">
-  <i>I make small software things that usually start with "this should be easier"</i>
+  <i>Turning "just add a script tag" into a philosophy</i>
 </h3>
