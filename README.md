@@ -104,6 +104,9 @@ My work ranges from embeddable Web Components and browser-based developer tools 
 <table align="center">
   <tr>
     <td align="center" width="110">
+      <img src="icons/javascript.webp" height="46" alt="JavaScript icon"><br><b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
       <img src="icons/html.webp" height="46" alt="HTML icon"><br><b>HTML</b>
     </td>
     <td align="center" width="110">
@@ -113,18 +116,24 @@ My work ranges from embeddable Web Components and browser-based developer tools 
       <img src="icons/php.webp" height="46" alt="PHP icon"><br><b>PHP</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/javascript.webp" height="46" alt="JavaScript icon"><br><b>JavaScript</b>
+      <img src="icons/sql.webp" height="46" alt="SQL icon"><br><b>SQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="icons/seo.webp" height="46" alt="SEO icon"><br><b>SEO</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="icons/python.webp" height="46" alt="Python icon"><br><b>Python</b>
     </td>
     <td align="center" width="110">
       <img src="icons/csharp.webp" height="46" alt="C# icon"><br><b>C#</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/python.webp" height="46" alt="Python icon"><br><b>Python</b>
+      <img src="icons/git.webp" height="46" alt="Git icon"><br><b>Git</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
-      <img src="icons/mysql.webp" height="46" alt="MySQL icon"><br><b>MySQL</b>
+      <img src="icons/linux.webp" height="46" alt="Linux icon"><br><b>Linux</b>
     </td>
     <td align="center" width="110">
       <img src="icons/bash.webp" height="46" alt="Bash icon"><br><b>Bash</b>
@@ -132,6 +141,8 @@ My work ranges from embeddable Web Components and browser-based developer tools 
     <td align="center" width="110">
       <img src="icons/batch.webp" height="46" alt="Batch icon"><br><b>Batch</b>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="icons/json.webp" height="46" alt="JSON icon"><br><b>JSON</b>
     </td>
@@ -141,8 +152,6 @@ My work ranges from embeddable Web Components and browser-based developer tools 
     <td align="center" width="110">
       <img src="icons/markdown.webp" height="46" alt="Markdown icon"><br><b>Markdown</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="icons/arduino.webp" height="46" alt="Arduino icon"><br><b>Arduino</b>
     </td>
@@ -150,16 +159,7 @@ My work ranges from embeddable Web Components and browser-based developer tools 
       <img src="icons/pawn.webp" height="46" alt="Pawn icon"><br><b>Pawn</b>
     </td>
     <td align="center" width="110">
-      <img src="icons/github.webp" height="46" alt="GitHub icon"><br><b>GitHub</b>
-    </td>
-    <td align="center" width="110">
       <img src="icons/vba.webp" height="46" alt="VBA icon"><br><b>VBA</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/excel.webp" height="46" alt="Excel icon"><br><b>Excel</b>
-    </td>
-    <td align="center" width="110">
-      <img src="icons/photoshop.webp" height="46" alt="Photoshop icon"><br><b>Photoshop</b>
     </td>
   </tr>
 </table>
